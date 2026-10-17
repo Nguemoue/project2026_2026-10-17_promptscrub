@@ -1,0 +1,10 @@
+{
+  "name": "nguemoue/promptscrub",
+  "description": "Masque secrets, jetons et données perso avant de coller un log dans un chat, une issue ou un prompt.",
+  "type": "project",
+  "license": "MIT",
+  "bin": ["promptscrub.php"],
+  "require": {
+    "php": ">=8.1"
+  }
+}
